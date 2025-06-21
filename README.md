@@ -113,14 +113,5 @@ Response:
   "totalElements": 15
 }
 ```
-
----
-
-## 💡 Future Enhancements
-
-* [ ] Add sorting (`sort=sepalLength,desc`)
-* [ ] Export to CSV
-* [ ] React frontend
-* [ ] Dockerize the backend
-
----
+# Output:
+![image](https://github.com/user-attachments/assets/475f0d27-2e21-4e95-9556-6ac59768c02f)
